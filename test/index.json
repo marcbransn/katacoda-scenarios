@@ -33,7 +33,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "vscode-terminal-split"
+  },
   "backend": {
     "imageid": "golang:1.14"
   }
